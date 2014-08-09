@@ -28,7 +28,7 @@ YrNo.locationforecast(37.8267, -122.423, 12)
 YrNo.locationforecast(37.8267, -122.423, 12)
 ```
 
-### Changing the default http adapter ###
+### Changing the default http adapter
 
 The HTTP requests are made with
 [Faraday](https://github.com/lostisland/faraday), which uses `Net::HTTP` by
@@ -58,7 +58,7 @@ end
 
 ## Contributing
 
-1. Fork it ( http://github.com/<my-github-username>/yr_no/fork )
+1. Fork it ( http://github.com/LeonB/yr_no/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)

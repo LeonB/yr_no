@@ -1,0 +1,50 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Client	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no/client.rb	/^  class Client$/;"	c	class:YrNo
+Location	/home/leon/Workspaces/prive/motorrijweer.nl/v3/lib/yr_no/lib/yr_no/location.rb	/^  class Location$/;"	c	class:YnRo
+Location	/home/leon/Workspaces/prive/motorrijweer.nl/v3/lib/yr_no/lib/yr_no/location.rb	/^  class Location$/;"	c	class:YrNo
+Location	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no/client.rb	/^  class Location$/;"	c	class:YrNo
+ParamsEncoder	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no/params_encoder.rb	/^  class ParamsEncoder$/;"	c	class:YrNo
+ParamsEncoder	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no/params_encoder.rb	/^  module ParamsEncoder$/;"	m	class:YrNo
+YnRo	/home/leon/Workspaces/prive/motorrijweer.nl/v3/lib/yr_no/lib/yr_no/location.rb	/^module YnRo$/;"	m
+YrNo	/home/leon/Workspaces/prive/motorrijweer.nl/v3/lib/yr_no/lib/yr_no.rb	/^module YrNo$/;"	m
+YrNo	/home/leon/Workspaces/prive/motorrijweer.nl/v3/lib/yr_no/lib/yr_no/location.rb	/^module YrNo$/;"	m
+YrNo	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^module YrNo$/;"	m
+YrNo	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no/client.rb	/^module YrNo$/;"	m
+YrNo	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no/params_encoder.rb	/^module YrNo$/;"	m
+api_call	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^  def self.api_call(product, version, **args)$/;"	F	class:YrNo
+api_call	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^  def self.api_call(product: product, version: nil, **args)$/;"	F	class:YrNo
+api_call	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^  def self.api_call(version, **args)$/;"	F	class:YrNo
+api_call	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^  def self.api_call(version, *args)$/;"	F	class:YrNo
+api_call	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^  def self.api_call(version, latitude, longitude)$/;"	F	class:YrNo
+api_call	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^  def self.api_call(version: nil, **args)$/;"	F	class:YrNo
+api_call	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^  def self.api_call(version: nil, *args)$/;"	F	class:YrNo
+api_call	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^  def self.api_call(version: nil, latitude: nil, longitude: nil)$/;"	F	class:YrNo
+api_call	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^  def self.api_call(version= nil, latitude= nil, longitude=nil)$/;"	F	class:YrNo
+build_connection	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^  def build_connection$/;"	f	class:YrNo
+build_connection	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no/client.rb	/^    def build_connection$/;"	f	class:YrNo.Client
+build_uri	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^  def self.build_uri(product, **args)$/;"	F	class:YrNo
+build_uri	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^  def self.build_uri(product, version, **args)$/;"	F	class:YrNo
+build_uri	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^  def self.build_uri(product, version: nil, **args)$/;"	F	class:YrNo
+build_uri	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^  def self.build_uri(version, *args)$/;"	F	class:YrNo
+build_uri	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^  def self.build_uri(version: nil, **args)$/;"	F	class:YrNo
+connection	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^    def connection$/;"	f	class:YrNo
+connection	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^  def connection$/;"	f	class:YrNo
+connection	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no/client.rb	/^    def connection$/;"	f	class:YrNo.Client
+decode	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no/client.rb	/^    def decode(query)$/;"	f	class:YrNo.Client
+decode	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no/client.rb	/^    def self.decode(query)$/;"	F	class:YrNo.Client
+decode	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no/params_encoder.rb	/^    def self.decode$/;"	F	class:YrNo.ParamsEncoder
+decode	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no/params_encoder.rb	/^    def self.decode(query)$/;"	F	class:YrNo.ParamsEncoder
+encode	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no/client.rb	/^    def encode(params)$/;"	f	class:YrNo.Client
+encode	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no/client.rb	/^    def self.encode(params)$/;"	F	class:YrNo.Client
+encode	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no/params_encoder.rb	/^    def self.encode$/;"	F	class:YrNo.ParamsEncoder
+encode	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no/params_encoder.rb	/^    def self.encode(params)$/;"	F	class:YrNo.ParamsEncoder
+initialize	/home/leon/Workspaces/prive/motorrijweer.nl/v3/lib/yr_no/lib/yr_no/location.rb	/^   def initialize(lat, lng)$/;"	f	class:YnRo.Location
+initialize	/home/leon/Workspaces/prive/motorrijweer.nl/v3/lib/yr_no/lib/yr_no/location.rb	/^   def initialize(lat, lng)$/;"	f	class:YrNo.Location
+initialize	/home/leon/Workspaces/prive/motorrijweer.nl/v3/lib/yr_no/lib/yr_no/location.rb	/^   def initialize(lat, lng)$/;"	f	class:YrNo.location
+location	/home/leon/Workspaces/prive/motorrijweer.nl/v3/lib/yr_no/lib/yr_no/location.rb	/^  class location$/;"	c	class:YrNo
+locationforecast	/home/leon/Workspaces/prive/motorrijweer.nl/v3/vendor/gems/yr_no/lib/yr_no.rb	/^  def self.locationforecast(latitude, longitude)$/;"	F	class:YrNo
